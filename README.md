@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">
-  hey there
+  Hi there, I'am Olga
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -20,9 +20,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I learn new technologies and read tech articles.
 
 - :page_facing_up: My CV: 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://orla90.github.io/rsschool-cv/">
-    <img src="https://media.giphy.com/media/fwmjvrjSLGO7CaBupN/giphy.gif" alt="CV" width="30"/>
+    <img src="https://media.giphy.com/media/uk9ZUOpDF9EZSFB8if/giphy.gif" alt="CV" width="30"/>
   </a>
 </div>
 
@@ -46,6 +46,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orla90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
