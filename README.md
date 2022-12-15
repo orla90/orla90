@@ -19,7 +19,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I learn new technologies and read tech articles.
 
-- :page_facing_up: My <a href="https://orla90.github.io/rsschool-cv/"><strong>CV</strong></a>
+- :page_facing_up: My <a href="https://orla90.github.io/rsschool-cv/"><strong>CV</strong></a> with projects
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olga-andrievich-a41844251/)
 
